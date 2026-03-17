@@ -1,3 +1,4 @@
+/*
 export default function HomePageContent() {
   return (
     <div className="container mx-auto p-8">
@@ -20,3 +21,5 @@ export default function HomePageContent() {
     </div>
   );
 }
+
+*/
