@@ -1,5 +1,5 @@
-// src/app/about/page.tsx
-export default function About() {
+// src/app/press/page.tsx
+export default function Press() {
   return (
     <div>
       <h1>Press</h1>

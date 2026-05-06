@@ -1,4 +1,5 @@
-export default function About() {
+// src/app/wholesale/page.tsx
+export default function Wholesale() {
   return (
     <div>
       <h1>Wholesale</h1>

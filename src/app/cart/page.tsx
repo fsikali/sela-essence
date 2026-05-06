@@ -1,5 +1,5 @@
-// src/app/about/page.tsx
-export default function About() {
+// src/app/cart/page.tsx
+export default function Cart() {
   return (
     <div>
       <h1>Cart</h1>

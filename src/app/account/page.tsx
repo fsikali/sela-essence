@@ -1,5 +1,5 @@
-// src/app/about/page.tsx
-export default function About() {
+// src/app/account/page.tsx
+export default function Account() {
   return (
     <div>
       <h1>Account</h1>
